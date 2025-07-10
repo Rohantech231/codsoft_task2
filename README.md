@@ -1,4 +1,4 @@
-# My Basic Portfolio
+# My Basic Portfolio 1
 This is a simple website that showcases my personal and professional information, skills, projects, resume, and contact details. I created this website using HTML, CSS, and JavaScript.
 
 # Sections
